@@ -1,0 +1,2 @@
+# Sniper-python-v6
+SNIPER TRADING BOT + INTELLIGENT COACH
